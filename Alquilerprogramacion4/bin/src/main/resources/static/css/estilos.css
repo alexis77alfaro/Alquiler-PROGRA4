@@ -118,12 +118,7 @@ color: #ffffff;
     }
 
     
- @media only screen and (max-width:620px) {
-  /* Adecuarlo a telefonos */
-  .menu, .main, .right {
-    width:100%;
-  }
-}
+ 
 
     
 }
